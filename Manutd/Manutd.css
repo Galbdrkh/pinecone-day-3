@@ -1,0 +1,40 @@
+body {
+    background-image: url(Manutdlogo.jpeg);
+    background-size: cover;
+}
+.title {
+    text-align: center;
+    color: white;
+}
+.text1 {
+    color: rgb(242, 132, 110);
+    background-color: aliceblue;
+    display: inline-block;
+}
+.zurag {
+    width: 500px;
+}
+.text2 {
+    display: inline-block;
+    background-color: aliceblue;
+}
+.text3 {
+    display: inline-block;
+    background-color: aliceblue;
+}
+
+.header {
+    color: rgb(225, 114, 94);
+    width: 100%;
+    background-color: white;
+}
+header ul {
+    margin: 0
+}
+
+header ul li {
+    margin: 0 20px;
+    display: inline-block;
+    padding: 20px 0
+}
+
